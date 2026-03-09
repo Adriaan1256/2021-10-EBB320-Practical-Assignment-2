@@ -6,7 +6,7 @@ Control Systems practical completed for EBB320.
 
 The full report can be viewed here:
 
-📄 `docs/EBB320_Practical_Assignment_2.pdf`
+📄 [Project Report](docs/EBB320_Practical_Assignment_2.pdf)
 
 ## Project Overview
 
